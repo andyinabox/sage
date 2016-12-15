@@ -3,7 +3,7 @@
   "type": "wordpress-theme",
   "license": "MIT",
   "description": "The best WordPress starter theme with a modern front-end development workflow. Based on HTML5 Boilerplate, gulp, Bower, and Bootstrap.",
-  "homepage": "https://roots.io/sage/",
+  "homepage": "https://github.com/andyinabox/sage",
   "authors": [
     {
       "name": "Ben Word",
@@ -14,13 +14,18 @@
       "name": "Scott Walkinshaw",
       "email": "scott.walkinshaw@gmail.com",
       "homepage": "https://github.com/swalkinshaw"
+    },
+    {
+      "name": "Andy Dayton",
+      "email": "amdayton@gmail.com",
+      "homepage": "https://github.com/andyinabox"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage/issues",
+    "issues": "https://github.com/andyinabox/sage/issues",
     "forum": "https://discourse.roots.io/"
   },
   "require": {
